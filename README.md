@@ -1,2 +1,3 @@
 # Competitive-Programming
-Solutions to the problems from various coding platforms in java
+
+Solutions of coding problems that I've worked on from different platforms.
