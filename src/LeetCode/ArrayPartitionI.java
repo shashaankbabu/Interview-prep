@@ -1,7 +1,7 @@
 package LeetCode;
 import java.util.*;
 
-class ArraypartitionI {
+class ArrayPartitionI {
     public int arrayPairSum(int[] nums) {
         Arrays.sort(nums);
         int sum = 0;
